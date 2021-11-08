@@ -1,3 +1,4 @@
+//nomer 1)
 #include <iostream>
 #include <random>
 #include <algorithm>
